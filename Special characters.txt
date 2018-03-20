@@ -1,0 +1,7 @@
+&hearts; = To creat a heart 
+&clubs; = To print a clovero club 
+&diams;= To print diams
+&spades; = To print spades 
+&mdash; = dash
+
+De.w3.org = To find more characters 

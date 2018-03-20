@@ -1,0 +1,2 @@
+&nbsp; = To add spaces between words
+&ensp; = To add two spaces between words

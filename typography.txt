@@ -1,0 +1,7 @@
+<b></b> = <b>HTML5</b> To add atribute Bold
+<strong></strong> = <strong>en udemy</strong>  To add atribute Bold
+
+<i></i> = <i> css 3</i> To add italics to the text
+<em></em> = To add emphazise
+
+<span style="color:red"> CSS3 </span>
